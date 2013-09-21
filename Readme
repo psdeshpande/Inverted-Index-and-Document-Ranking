@@ -1,4 +1,3 @@
-
 THis project is implemented for inverted index which will rank document as per given algorithm amd query provided by user. By doing this most relevent document will be returned to user based on his/her input query.
 
 To Run
@@ -37,6 +36,6 @@ Following is the sample O/P when we run our cosine and Boolean algorithm.
    docid : 3 score : 0.25 
    docid : 4 score : 0.2
  
-   We attached cosDocfile.txt in Hw2.zip for reference. 	
+   cosDocfile.txt is attached in for reference. 	
 
    Boolean ranking algorithm supports prefix expressions
